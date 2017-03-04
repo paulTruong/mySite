@@ -1,2 +1,2 @@
 # mySite
-Repo containing source code to my site
+Repo containing code to my site
